@@ -54,6 +54,6 @@ btnYes.addEventListener("click",(e)=>{
 document.addEventListener("DOMContentLoaded", function() {
     const audio = document.querySelector("audio");
     if (audio) {
-        audio.volume = 0.015; // Adjust volume here
+        audio.volume = 0.30; // Adjust volume here
     }
 });
